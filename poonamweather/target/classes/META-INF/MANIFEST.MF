@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Weather prediction
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: katsk
+Implementation-Vendor-Id: weatherapplicationstart
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/poonamweathe
+ r/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
